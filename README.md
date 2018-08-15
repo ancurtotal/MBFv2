@@ -1,6 +1,6 @@
-# MULTIBRUTEFORCEVERSIDUA
+# MULTIBRUTEFORCEVERSISATU
 
-MULTI BRUTE FORCE VERSI DUA (MBFv2)
+MULTI BRUTE FORCE VERSI SATU (MBFv1)
 SCRIPT BUKAN BUATAN GUE
 SCRIPT INI BUATAN FIRMANSX
 GUE HANYA BANTU BUAT UPLOAD ULANG
@@ -11,15 +11,16 @@ $ gem install lolcat
 $ pip2 install mechanize
 $ pkg install git
 $ git clone 
-https://github.com/ancurtotal/MBFv2
+https://github.com/ancurtotal/MBFv1
 
 
 ```MENJALANKANNYA```
 
-$ cd mbf
+$ cd MBFv2
 $ chmod +x MBF2.py
-$ python2 MBF.py
+$ python2 MBF2.py
 
 
 EKAY ANCURTOTAL
 SCARY OF DEMON CYBER
+
